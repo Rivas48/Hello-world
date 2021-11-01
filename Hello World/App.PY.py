@@ -1,0 +1,6 @@
+print("Hello World")
+print('Im going digital')
+print('   /|')
+print('  / |')
+print(' /  |')
+print('/___|')
